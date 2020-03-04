@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\myLib.h(155,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\myLib.h(155,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(120,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(182,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(187,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(192,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(197,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(220,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(253,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(260,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(267,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(274,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(281,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(311,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(318,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(325,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(332,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(339,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(394,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(466,6): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(546,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\flappyBirdConsole\main.cpp(771,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  flappyBirdConsole.vcxproj -> C:\Users\ASUS Vivo\source\repos\flappyBirdConsole\Debug\flappyBirdConsole.exe
